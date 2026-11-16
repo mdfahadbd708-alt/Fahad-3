@@ -39,6 +39,45 @@
         "একবার অর্ডার সাবমিট করার পর বাতিল বা রিফান্ড করা হয় না।",
         "যেকোনো সমস্যায় অর্ডারের স্ক্রিনশট সহ টেলিগ্রামে যোগাযোগ করুন।"
       ]
+    },
+    "lu": {
+      "packages": [
+        {
+          "label": "Level Up Package - Level 6",
+          "name": "Level Up Package - Level 6",
+          "price": 45
+        },
+        {
+          "label": "Level Up Package - Level 10",
+          "name": "Level Up Package - Level 10",
+          "price": 80
+        },
+        {
+          "label": "Level Up Package - Level 15",
+          "name": "Level Up Package - Level 15",
+          "price": 80
+        },
+        {
+          "label": "Level Up Package - Level 20",
+          "name": "Level Up Package - Level 20",
+          "price": 80
+        },
+        {
+          "label": "Level Up Package - Level 25",
+          "name": "Level Up Package - Level 25",
+          "price": 80
+        },
+        {
+          "label": "Level Up Package - Level 30",
+          "name": "Level Up Package - Level 30",
+          "price": 110
+        },
+        {
+          "label": "Full Level Up (1270 Diamond)",
+          "name": "Full Level Up (1270 Diamond)",
+          "price": 449
+        }
+      ]
     }
   },
   "texts": {
