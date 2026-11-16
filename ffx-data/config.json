@@ -1,9 +1,8 @@
 {
   "logo": null,
   "ffBanner": null,
-  "ffPackages": null,
   "banners": [
-    "default:Banner 2.jpg",
+    "banner-1794849131185-1387.jpg",
     "default:Banner 1.jpg",
     "default:Banner 3.jpg"
   ],
@@ -20,5 +19,8 @@
       "label": "YouTube",
       "url": "https://t.me/ffupcomingevent708"
     }
-  ]
+  ],
+  "images": null,
+  "prod": null,
+  "texts": null
 }
