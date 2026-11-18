@@ -21,13 +21,13 @@
     }
   ],
   "images": {
-    "pop": "img-pop-1794992109665.png",
     "uid": "img-uid-1794993291049.png",
     "wm": "img-wm-1794993524309.png",
-    "uc": "img-uc-1794993655303.png",
     "wl": "img-wl-1794993686131.png",
     "lu": "img-lu-1794993936016.png",
-    "in": "img-in-1794993950779.png"
+    "in": "img-in-1794993950779.png",
+    "uc": "img-uc-1794993655303.png",
+    "pop": "img-pop-1795002184063.png"
   },
   "prod": {
     "ff": {
@@ -121,10 +121,10 @@
     }
   },
   "texts": {
+    "siteName": "DZ TOPUP",
     "pop": "সবথেকে কম দামে টপ করার জন্য সেরা ওয়েবসাইট DZ TOPUP\n১০০% বিশ্বস্ত ও দ্রুত ডেলিভারিতে\nঅর্ডার করুন নিশ্চিন্তে😘",
     "hours": "সকাল ৮টা থেকে রাত ১২টা 💬",
     "warn": "১৮ বছরের নিচে অভিভাবকের অনুমতি ছাড়া অর্ডার করা সম্পূর্ণ নিষিদ্ধ।💬",
-    "playUrl": "https://t.me/ffupcomingevent708/41",
-    "siteName": "DZ TOPUP"
+    "playUrl": "https://t.me/ffupcomingevent708/41"
   }
 }
