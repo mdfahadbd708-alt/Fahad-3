@@ -20,7 +20,9 @@
       "url": "https://www.youtube.com/@dztopup_official"
     }
   ],
-  "images": null,
+  "images": {
+    "pop": "img-pop-1794992109665.png"
+  },
   "prod": {
     "ff": {
       "packages": [
